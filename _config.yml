@@ -1,0 +1,14 @@
+url: "https://mnlipp.github.io"
+
+plugins:
+  - jekyll-seo-tag
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+description:
+  Information regarding Michael N. Lipp's GitHub projects 
+
+sass:
+    style: compressed  
